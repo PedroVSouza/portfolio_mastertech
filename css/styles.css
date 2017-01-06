@@ -1,0 +1,22 @@
+.bgimage {
+	background-image: url('../images/class.jpg');
+	background-position: center center;
+	background-size: cover;
+	height: 500px;
+}
+
+.icon {
+	max-width: 200px;
+	max-height: 200px;
+	margin: 0;
+	display: block;
+	padding: none;
+}
+
+nav {
+	text-align: right;
+}
+
+h2 {
+	text-align: center;
+}
